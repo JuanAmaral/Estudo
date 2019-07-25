@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5AD20456-67DE-4B31-93D1-0320004C5573}</ProjectGuid>
+    <ProjectGuid>{1BAEC2AA-A000-4EF1-A722-E7F9F8A7278C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2_exercicio_aula1</RootNamespace>
-    <AssemblyName>2-exercicio_aula1</AssemblyName>
+    <RootNamespace>_2_BykeBank</RootNamespace>
+    <AssemblyName>_2_BykeBank</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

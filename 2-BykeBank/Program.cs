@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2_exercicio_aula1
+namespace _2_BykeBank
 {
     class Program
     {
