@@ -1,0 +1,2 @@
+C:\Users\Juan Amaral\Documents\GitHub\Estudo\2-BykeBank\obj\Debug\2-BykeBank.csprojAssemblyReference.cache
+C:\Users\Juan Amaral\Documents\GitHub\Estudo\2-BykeBank\obj\Debug\2-BykeBank.csproj.CoreCompileInputs.cache
